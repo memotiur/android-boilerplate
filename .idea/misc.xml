@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/drawable/ic_baseline_storefront_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/drawable/ic_cart.xml" value="0.37864583333333335" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/activity_clean.xml" value="0.3392210144927536" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/activity_main.xml" value="0.3473731884057971" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/activity_product_details.xml" value="0.3392210144927536" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/category_item.xml" value="0.3432971014492754" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/clean_container.xml" value="0.3392210144927536" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/fragment_cart.xml" value="0.3392210144927536" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/fragment_order_history.xml" value="0.3392210144927536" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/fragment_product_details.xml" value="0.3392210144927536" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/fragment_profile.xml" value="0.3392210144927536" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/fragment_store.xml" value="0.3473731884057971" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/product_details.xml" value="0.33" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/product_item.xml" value="0.25" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/layout/slider_item.xml" value="0.3473731884057971" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/menu/bottom_navigation.xml" value="0.3625" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/menu/main_navigation.xml" value="0.3625" />
+        <entry key="..\:/Workstation/Android/AndroidBoilerplate/app/src/main/res/menu/side_navigation.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
